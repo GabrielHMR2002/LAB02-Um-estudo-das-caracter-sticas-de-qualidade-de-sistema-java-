@@ -1,1 +1,0 @@
-# LAB02-Um-estudo-das-caracter-sticas-de-qualidade-de-sistema-java-
