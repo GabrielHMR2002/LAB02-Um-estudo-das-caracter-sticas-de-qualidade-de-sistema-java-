@@ -105,7 +105,7 @@ def save_to_csv(repos, filename):
 
 def main():
     print("Coletando top 1000 repositórios Java...")
-    repos = get_top_java_repos(1000)
+    repos = get_top_java_repos(50)
     
     print("Enriquecendo dados dos repositórios...")
     enriched_repos = enrich_repo_data(repos)
